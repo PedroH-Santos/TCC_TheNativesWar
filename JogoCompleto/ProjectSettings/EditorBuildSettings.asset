@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 323f3b92c7e2fc24badd2bbdf79be4b9
+  - enabled: 1
+    path: Assets/Scenes/MapGame.unity
+    guid: 8c8aa4163a88d7745bcb6e859dccd2b9
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 50161e974cac0234a9bf1212a248d5de
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: 63034ee6c96394f4286cbdda38d7779c
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: 506a7f9cb2d53124eb67e0902be7e03b
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: 4e87f58144c276442a687707c6330d94
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7f971dc03e8434e4092005c5cbdd862e, type: 2}
